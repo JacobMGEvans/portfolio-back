@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "@babel/cli": "^7.2.3",
-    "apollo-server": "^2.4.2",
+    "apollo-server": "^2.14.2",
     "dotenv": "^6.2.0",
     "graphql": "^14.1.1"
   },
